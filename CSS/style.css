@@ -1,13 +1,12 @@
 body{
-		background:	#FFC966;
-		font-family: helvetica,arial,sans-serif;
-		color: #FFF7EA;
-		font-size: 16px;
-		padding-top:150px;
+	background:#FFC966;
+	font-family: helvetica,arial,sans-serif;
+	color: #FFF7EA;
+	font-size: 16px;
+	padding-top:150px;
 }
 
 .container{
-
 	width: 100%;
 	margin:auto;
 	border: none;
