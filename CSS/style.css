@@ -5,37 +5,44 @@ html{
 }
 
 body{
-	background:#f4f4f4;
+
 	font-family: helvetica,arial,sans-serif;
-	color: #FFF7EA;
 	font-size: 16px;
 	padding-top:50px;
+	background-image: url('../images/buffet-counter-cozy-776538.jpg');
+	background-size: auto;
+	background-repeat: no-repeat;
+
 }
 
 .container{
 	width: 50%;
 	height: 100%;
-	position: relative;
-	margin:auto;
+	margin:10% auto;
 	border: none;
 	text-align:center;
 	color: #212121;
-	background:#FFECEC; 
+	background:rgba(1, 1, 1, 0.6);
+	color:white;
+	padding:10px;
 }
 
 #slider{
 	width: 100%;
 	text-align: left;
+	color:white;
 }
 
 #tip-total{
 	padding-top:20px;
+	color:white;
 }
 
 .bill-main,.bill-main input{
 	font-size:18px;
 	padding: 10px;
 	border: none;
+	color:white;
 }
 
 
